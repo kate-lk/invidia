@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'RoadRadio';
+    src: url('../font/RoadRadio.eot');
+    src: local('RoadRadio'),url('../font/RoadRadio.eot?#iefix') format('embedded-opentype'),url('../font/RoadRadio.woff2') format('woff2'),url('../font/RoadRadio.woff') format('woff'),url('../font/RoadRadio.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'RoadRadio';
+    src: url('../font/RoadRadio-Light.eot');
+    src: local('../font/RoadRadio Light'),local('RoadRadio-Light'),url('../font/RoadRadio-Light.eot?#iefix') format('embedded-opentype'),url('../font/RoadRadio-Light.woff2') format('woff2'),url('../font/RoadRadio-Light.woff') format('woff'),url('../font/RoadRadio-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'RoadRadio';
+    src: url('../font/RoadRadio-Thin.eot');
+    src: local('../font/RoadRadio Thin'),local('RoadRadio-Thin'),url('../font/RoadRadio-Thin.eot?#iefix') format('embedded-opentype'),url('../font/RoadRadio-Thin.woff2') format('woff2'),url('../font/RoadRadio-Thin.woff') format('woff'),url('../font/RoadRadio-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'RoadRadio';
+    src: url('../font/RoadRadio-Black.eot');
+    src: local('../font/RoadRadio Black'),local('RoadRadio-Black'),url('../font/RoadRadio-Black.eot?#iefix') format('embedded-opentype'),url('../font/RoadRadio-Black.woff2') format('woff2'),url('../font/RoadRadio-Black.woff') format('woff'),url('../font/RoadRadio-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'RoadRadio';
+    src: url('../font/RoadRadio-Bold.eot');
+    src: local('RoadRadio Bold'),local('RoadRadio-Bold'),url('../font/RoadRadio-Bold.eot?#iefix') format('embedded-opentype'),url('../font/RoadRadio-Bold.woff2') format('woff2'),url('../font/RoadRadio-Bold.woff') format('woff'),url('../font/RoadRadio-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal
+}
